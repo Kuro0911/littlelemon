@@ -1,0 +1,27 @@
+.specials{
+    margin-top: 4em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.specials-head-wrap {
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+    align-items: center;
+}
+.specials-title{
+    font-size: 2.5em;
+}
+.specials-button{
+    background-color: #F4CE14;
+    border-radius: 10px;
+    font-size: medium;
+    width: 10em;
+    height: 2.5em;
+    border: none;
+    cursor: pointer;
+}
+.specials-body{
+    display: flex;
+}

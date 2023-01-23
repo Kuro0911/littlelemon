@@ -1,0 +1,36 @@
+.card{
+    background-color: #EDEFEE;
+    height: max-content;
+    width: 15rem;
+    margin: 1em;
+    border-radius: 10px 10px 0 0;
+}
+.card-img{
+    width: 15rem;
+    height: 10rem;
+    border-radius: 10px 10px 0 0;
+}
+.card-body{
+    padding: 1em;
+    text-align: left;
+}
+.card-head-wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-title{
+    font-size: large;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.card-price{
+    font-size: large;
+    text-transform: capitalize;
+    font-weight: 400;
+    color: #EE9972
+}
+.card-order{
+    font-size: large;
+    font-weight: 500;
+}

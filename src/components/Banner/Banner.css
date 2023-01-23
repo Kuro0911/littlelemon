@@ -1,0 +1,41 @@
+.banner{
+    background-color: #495E57;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+}
+.banner-left{
+    padding: 1em;
+    width: 30%;
+    text-align: left;
+}
+.banner-title{
+    font-size: xx-large;
+    color: #F4CE14;
+    line-height: 0;
+}
+.banner-subtitle {
+    font-size: large;
+    color: #EDEFEE;
+    line-height: 1em;
+}
+.banner-text{
+    color: #EDEFEE;
+    font-size: medium;
+    font-weight: 600;
+}
+.banner-button {
+    background-color: #F4CE14;
+    border-radius: 10px;
+    font-size: medium;
+    width: 10em;
+    height: 2.5em;
+}
+.banner-right {
+    width: 30%;
+}
+.banner-image{
+    height: 24em;
+    width: 18em;
+    clip-path: inset(30px 0 30px 0 round 16px);
+}
